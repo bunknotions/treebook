@@ -1,0 +1,20 @@
+Added Bootstrap and applied layout to the page
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# n branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	new file:   app/assets/images/glyphicons-halflings-white.png
+#	new file:   app/assets/images/glyphicons-halflings.png
+#	new file:   app/assets/javascripts/bootstrap.js
+#	modified:   app/assets/javascripts/statuses.js.coffee
+#	modified:   app/assets/stylesheets/application.css
+#	new file:   app/assets/stylesheets/bootstrap.css
+#	modified:   app/assets/stylesheets/scaffolds.css.scss
+#	modified:   app/assets/stylesheets/statuses.css.scss
+#	modified:   app/views/layouts/application.html.erb
+#	modified:   app/views/statuses/index.html.erb
